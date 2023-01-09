@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing a different request on store","As a user I want to create store","SUCCESS","2023-01-09T02:03:23.742Z[Europe/London]","0.0","0.05"
+"Testing a different request on store","As a user I want to get created product with productId","SUCCESS","2023-01-09T02:03:23.863Z[Europe/London]","0.0","0.03"
+"Testing a different request on store","As a user I want to update the product with productId","SUCCESS","2023-01-09T02:03:23.957Z[Europe/London]","0.0","0.06"
+"Testing a different request on store","As a user I want to delete the product","SUCCESS","2023-01-09T02:03:24.125Z[Europe/London]","0.0","0.05"

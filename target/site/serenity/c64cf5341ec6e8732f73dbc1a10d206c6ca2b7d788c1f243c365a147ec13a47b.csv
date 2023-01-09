@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CRUD test","This will create new product","SUCCESS","2023-01-09T02:03:15.510Z[Europe/London]","0.0","4.29"
+"Product CRUD test","Getting the product information with id:","SUCCESS","2023-01-09T02:03:19.829Z[Europe/London]","0.0","0.06"
+"Product CRUD test","Updating product information and verify the updated information","SUCCESS","2023-01-09T02:03:19.888Z[Europe/London]","0.0","0.05"
+"Product CRUD test","Deleting product with id and verify that user is deleted","SUCCESS","2023-01-09T02:03:19.944Z[Europe/London]","0.0","0.06"
